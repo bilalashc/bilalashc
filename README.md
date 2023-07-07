@@ -30,3 +30,5 @@ I am excited to explore any opportunity where my skillset can be used to contrib
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original.svg" title="Webpack" width="40" height="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40" style="max-width: 100%;"></a>
 
+![](https://komarev.com/ghpvc/?username=bilalashc&color=blueviolet)
+
