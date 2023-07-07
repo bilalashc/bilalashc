@@ -8,7 +8,7 @@
 
 With a background in Nuclear Engineering, I have developed strong critical thinking skills. Inspired by my interest in entrepreneurship and technology, I have transitioned into becoming a versatile software engineer with experience in building various projects using React, Redux, JavasScript, Ruby on Rails, Express, SQL, and MongoDB, among others. My versatile skillset and continuous learning mindset have enabled me to find innovative solutions to difficult problems.
 
-In my leisure time, I am passionate about reading, people, music, traveling, fitness, and snowboarding. 
+In my leisure time, I am passionate about reading, meeting new people, music, traveling, fitness, and snowboarding. 
 
 I am excited to explore any opportunity where my skillset can be used to contribute to a purpose-driven team. Please feel free to connect if you want to chat or just want to say hi!
 
