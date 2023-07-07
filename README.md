@@ -13,4 +13,4 @@ In my leisure time, I am passionate about reading, people, music, traveling, fit
 I am excited to explore any opportunity where my skillset can be used to contribute to a purpose-driven team. Please feel free to connect if you want to chat or just want to say hi!
 
 ## Languages and Tools:
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">]()
+[<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">]()
