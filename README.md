@@ -10,4 +10,7 @@ With a background in Nuclear Engineering, I have developed strong critical think
 
 In my leisure time, I am passionate about reading, people, music, traveling, fitness, and snowboarding. 
 
-I am excited to explore any opportunity where my skillset can be used to contribute to a purpose-driven team. Please feel free to reach out to me at bilalachoudhry@gmail.com for any opportunities.
+I am excited to explore any opportunity where my skillset can be used to contribute to a purpose-driven team. Please feel free to connect if you want to chat or just want to say hi!
+
+## Languages and Tools:
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">]()
