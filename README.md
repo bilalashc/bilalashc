@@ -6,11 +6,7 @@
 
 ## About me:
 
-Inspired by my interest in entrepreneurship and technology, I have transitioned into becoming a versatile software engineer with experience in building various projects using React, Redux, JavasScript, Ruby on Rails, Express, SQL, and MongoDB, among others. My versatile skillset and continuous learning mindset have enabled me to find innovative solutions to difficult problems.
-
-In my leisure time, I am passionate about reading, meeting new people, music, traveling, fitness, and snowboarding. 
-
-I am excited to explore any opportunity where my skillset can be used to contribute to a purpose-driven team. Please feel free to connect if you want to chat or just want to say hi!
+learning and coding
 
 ## ⌨️ Languages and Tools:
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" style="max-width: 100%;"></a>
